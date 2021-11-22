@@ -128,5 +128,5 @@ dmypy.json
 # Pyre type checker
 .pyre/
 
-# Large files
-.bert_model/
+# Model directory
+bert_model/
